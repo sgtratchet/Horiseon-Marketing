@@ -1,4 +1,10 @@
 # Code Refactor Starter Code
+Horiseon Marketing handles anything related to digital online marketing. From SEO to online reputation management;
+
+
+
+This webpage was made as a rework homework assignment and the following changes were made:
+
 In index.html
     -changed title in the head to show company name
     -added alt to all content images
